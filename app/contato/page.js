@@ -6,7 +6,7 @@ export default function Contato(){
 
     const [ nome, alteraNome ] = useState("")
     const [mensagem, alteraMensagem ] = useState("")
-    const notify = () => toast ("Mensagem Enviada");
+    // Tetstando um teste com uma testada
  
     function toastify(e){
 
